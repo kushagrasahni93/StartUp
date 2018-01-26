@@ -2,7 +2,7 @@
 /**
  * Count The No. OF Divisors divisisble by k in the range from l to r.
  */
-package HackersEarth;
+package hackersEarth;
 
 import java.util.*;
 

@@ -2,7 +2,7 @@
  * Reference: https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/prime-number-8/
  * @author Kushagra
  */
-package HackersEarth;
+package hackersEarth;
 
 import java.util.Scanner;
 
